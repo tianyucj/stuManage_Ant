@@ -1,0 +1,3 @@
+# stuManage_Ant
+stuManage_Ant
+该项目为使用react框架加上AntDesgin UI插件的一个管理系统
