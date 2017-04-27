@@ -1,0 +1,37 @@
+header{
+	width: 100%;
+	height: 120px;
+	background-color: #168AD1;
+	line-height: 120px;
+	color: #fff;
+}
+header h1{
+	margin-left: 60px;
+}
+table th{
+	width: 174px;
+}
+table td{
+	border: 1px solid;
+}
+button{
+	width: 40px;
+	height: 30px;
+	margin: 0 5px;
+	border-radius: 5px;
+}
+#opreateArea{
+	width: 100%;
+	line-height: 100px;
+	border: 1px solid #7F7F7F;
+}
+footer{
+	width: 100%;
+	height: 90px;
+	text-align: center;
+	margin-top:345px;
+	line-height: 90px;
+	background-color: #2292DD;
+	color: #fff;
+	
+}

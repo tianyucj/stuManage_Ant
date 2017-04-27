@@ -1,0 +1,50 @@
+body{
+    min-width: 1440px;
+}
+body,ul,li,ol,p,h1,h2,h3,h4,h5,h6,form,fieldset,table,td,img,div,dl,dt,dd,input,img{
+    margin:0;
+    padding:0;
+}
+.fl{
+    float: left;
+}
+.fr{
+    float: right;
+}
+img{
+    border:none;
+}
+li{
+    list-style: none;
+}
+header,article,nav,section,footer{
+    display: block;
+}
+input,select,textarea{
+    outline:none;
+    border:none;
+    background: none;/*��Ϊ��ie6��input�ı���Ͱ�ť��ϵ�������ť�����µ��������ô˷�����ȥ��input�ı�����Ȼ������css��Ӧλ�ü��ϱ���ɫ���ɼ���IE6*/
+}
+button{
+	border: none;
+}
+textarea{
+    resize: none;
+}
+a{
+    text-decoration:none;
+}
+a:hover,a.current{
+    color: #c41211;
+}
+/*�������*/
+.clearfix:after{
+    content:"";
+    display:block;
+    clear:both;
+    height:0;
+    visibility: hidden;
+}
+.clearfix{
+    zoom:1;
+}
